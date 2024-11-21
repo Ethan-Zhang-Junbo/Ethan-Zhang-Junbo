@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ethan-Zhang-Junbo
-- 👀 I’m interested in photography and video editing
+- 👀 I’m interested in photography, car racing, rockets, mostly about aerodynamics
 - 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking forward to entering the University of Cambridge
+- 💞️ I’m looking forward to entering the University of Cambridge, IC or Southampton
 - 📫 Reaching me by email at erfuzhangjunbo@foxmail.com
 
 <!---
